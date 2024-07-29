@@ -1,3 +1,7 @@
 # SMCS_project
-This repository contains all resources for project SMCS.
-All resources will come soon. Please feel free to contact namechangtian@163.com if you need to reach out.
+This repository is for project SMCS.
+
+Please run   td31.sh and td35.sh  
+
+
+Please feel free to contact namechangtian@163.com if you need to reach out.
